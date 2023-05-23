@@ -1,0 +1,218 @@
+.col-lg-6 {
+  padding: 0px;
+}
+
+
+.App-logo {
+  width: 150px;
+  height: 150px;
+  border-radius: 75px;
+  pointer-events: none;
+  margin-top: 10px;
+}
+
+.personimg {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.cv {
+  padding-left: 350px;
+  padding-right: 251px;
+}
+
+
+.left {
+  width: 95%;
+  height: 730px;
+  background-color: rgb(27, 27, 224);
+  margin-left: 45px;
+  padding-right: 10px;
+  padding-left: 10px;
+
+}
+
+.contact {
+  margin-bottom: 20px;
+
+}
+
+.contact h5 {
+  margin-left: 10px;
+  color: black;
+}
+
+.contact hr {
+  width: 70px;
+  margin-left: 10px;
+  color: whitesmoke;
+}
+
+
+.contact ul li {
+
+  list-style: none;
+  margin-left: -24px;
+}
+
+
+.contact ul li span {
+
+  color: whitesmoke;
+  margin-left: 10px;
+  margin-bottom: 5px;
+}
+
+.education h5 {
+  margin-left: 10px;
+  color: black;
+}
+
+.education hr {
+  width: 92px;
+  margin-left: 10px;
+  color: whitesmoke;
+}
+
+
+.education ul li {
+
+  list-style: none;
+  margin-left: -24px;
+}
+
+
+.education ul li span {
+
+  color: whitesmoke;
+  margin-left: 10px;
+  margin-bottom: 5px;
+}
+
+.workexperience h5 {
+
+  margin-left: 10px;
+  color: black;
+
+}
+
+.workexperience hr {
+  margin-left: 10px;
+  width: 152px;
+  color: whitesmoke;
+}
+
+.workexperience ul li{
+  list-style: none;
+  margin-left: -24px;
+  margin-bottom: 3px;
+}
+
+.workexperience ul li span{
+  color: whitesmoke;
+  margin-left: 10px;
+}
+
+.portfolio{
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.portfolio h5 {
+  color: black;
+
+}
+
+.portfolio hr {
+  width: 152px;
+  color: whitesmoke;
+}
+
+.portfolio span{
+  color: whitesmoke;
+  margin-left: 10px;
+}
+
+
+
+
+.right {
+  width: 100%;
+  height: 730px;
+  background-color: gray;
+}
+
+.aboutme {
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+}
+
+.aboutme h5 {
+  color: black;
+}
+
+.aboutme hr {
+  width: 101px;
+  color: whitesmoke;
+}
+
+
+.aboutme p {
+  color: whitesmoke;
+  font-size: 15px;
+}
+
+
+
+.aboutme ul li {
+  list-style: none;
+  margin-left: -30px;
+  margin-bottom: 3px;
+}
+
+.aboutme ul li span {
+
+  color: whitesmoke;
+  margin-left: 10px;
+}
+
+
+.language {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.language h5 {
+  margin-left: 10px;
+  color: black;
+}
+
+.language hr {
+  width: 92px;
+  margin-left: 10px;
+  color: whitesmoke;
+}
+
+
+.language ul li {
+
+  list-style: none;
+  margin-left: -30px;
+  margin-bottom: 2px;
+
+}
+
+
+.language ul li span {
+
+  color: whitesmoke;
+  margin-left: 10px;
+  margin-bottom: 5px;
+  color: whitesmoke;
+  margin-left: 10px;
+}
+
+.level {
+  left: 150px !important;
+}
